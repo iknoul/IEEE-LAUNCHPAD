@@ -12,7 +12,7 @@
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
 | **Tic-Tac-Toe**  | Tic Tac Toe game using React with a well-designed user interface.                                             | |  [Git hub repo link ](https://github.com/iknoul/simple-tic--tac-toe)  |
-| **Money-Manager**  | Money manger app using REACT with analysis and managing features.                                             |   | [Git hub repo link ] (https://github.com/iknoul/Money-Manager)   |
+| **Money-Manager**  | Money manger app using REACT with analysis and managing features.                                             |   | [Git hub repo link ](https://github.com/iknoul/Money-Manager)   |
 | **Injury-Guard**  |Predict the chances of injury of a football player, using React and Flask.                                          |   |  [Git hub repo link ](https://github.com/iknoul/Injury-Guard) |
 | **Indian sign language detection using images**  | The project focused on live Indian Sign Language detection and comparing CNN models (ConvNeXtSmall and DenseNet121) in this context, Using Python, OpenCV, TensorFlow, Pandas, data visualization libraries and etc. The main challenge was the lack of standard datasets for Indian Sign Language. To address this, I manually constructed a dataset for training the models.    |   |  [Git hub repo link ](https://github.com/iknoul/Indian-sign-language-detection-using-images-) |
 
